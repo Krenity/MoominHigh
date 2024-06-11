@@ -181,9 +181,6 @@ body {
     width: 100%;
     height: 600px;
     top: -10px;
-
-    translate: -5px 0px;
-
     z-index: 5;
     position: absolute;
     display: flex;
@@ -269,15 +266,13 @@ body {
     width: fit-content;
     gap: 30px;
     justify-content: center;
-}
-
-
-.everything_else_container_home {
-    margin-top: 650px; 
-    width: 100%; 
-    display: block;
-}
-
+    }
+    
+    .everything_else_container_home {
+        margin-top: 650px; 
+        width: 100%; 
+        display: block;
+    }
 @media (max-width: 1130px) {
     .news-news {
         flex-direction: column;
@@ -333,4 +328,3 @@ body {
         height: 100%;
     }
 }
-
