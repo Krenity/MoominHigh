@@ -280,6 +280,9 @@ body {
     .news-text {
         margin-left: 8px;
     }
+    .everything_else_container {
+        margin-top: 600px;
+    }
 }
 
 /* STAFF */
