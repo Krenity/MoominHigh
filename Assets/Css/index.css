@@ -181,6 +181,9 @@ body {
     width: 100%;
     height: 600px;
     top: -10px;
+
+    translate: -5px 0px;
+
     z-index: 5;
     position: absolute;
     display: flex;
