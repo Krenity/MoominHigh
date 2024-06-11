@@ -182,6 +182,9 @@ body {
     height: 600px;
     top: -10px;
     z-index: 5;
+
+    translate: -8px 0px;
+
     position: absolute;
     display: flex;
     overflow: hidden;
