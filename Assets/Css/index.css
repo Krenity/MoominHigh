@@ -268,6 +268,13 @@ body {
     justify-content: center;
 }
 
+
+.everything_else_container_home {
+    margin-top: 650px; 
+    width: 100%; 
+    display: block;
+}
+
 @media (max-width: 1130px) {
     .news-news {
         flex-direction: column;
@@ -282,6 +289,12 @@ body {
     }
     .everything_else_container {
         margin-top: 600px;
+    }
+    .everything_else_container_home {
+        margin-top: 50px;
+    }
+    .scroll {
+        translate: 0px 250px;
     }
 }
 
@@ -317,3 +330,4 @@ body {
         height: 100%;
     }
 }
+
